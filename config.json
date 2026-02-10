@@ -5,7 +5,7 @@
   "dify_api_key":"app-2YhqjQa7SfhmNEMd1PClRv2p",
   "wechatcom_corp_id":"ww33143723b1adddea",
   "wechatcom_secret":"TpxtxemCEQdNHZWOU5ZjZpzO2g9KLGPjXuBwPlCaAF8",
-  "wechatcom_agent_id":"1000003",
+  "wechatcom_app_id":"1000003",
   "wechatcom_token":"mood123",
   "wechatcom_aes_key":"1234567890123456789012345678901234567890123"
 }
